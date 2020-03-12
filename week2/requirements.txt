@@ -45,7 +45,7 @@ packaging==18.0
 pandas==0.23.4
 Pillow==5.4.1
 pluggy==0.8.1
-psutil==5.4.8
+psutil==5.6.6
 PsychoPy==3.0.0
 psychopy-ext==0.6.0.4
 py==1.7.0
