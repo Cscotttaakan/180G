@@ -28,7 +28,7 @@ idna==2.8
 imageio==2.4.1
 imagesize==1.1.0
 jdcal==1.4
-Jinja2==2.10
+Jinja2==2.11.3
 json-tricks==3.12.2
 kiwisolver==1.0.1
 lxml==4.3.0
